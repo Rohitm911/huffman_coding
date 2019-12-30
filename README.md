@@ -1,1 +1,1 @@
-# huffman_coding
+# Huffman coding application using java applets
